@@ -9,7 +9,7 @@ The environment was built using virtual machines to simulate a real enterprise n
 
 ---
 
-## Lab Environment
+## Lab Environment 
 
 The lab environment was built using **Oracle VM VirtualBox**.
 
