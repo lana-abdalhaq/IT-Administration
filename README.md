@@ -1,4 +1,4 @@
-# IT-Administration-
+# IT-Administration
 Active Directory Lab
 
 
